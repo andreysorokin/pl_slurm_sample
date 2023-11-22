@@ -1,0 +1,7 @@
+**/*.pth
+**/train.*.err
+**/train.*.out
+**/munge.key
+.DS_Store
+.vagrant
+data
